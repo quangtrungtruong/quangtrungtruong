@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quangtrungtruong, a PhD student at HKUST.
-- 👀 I’m interested in video understanding.
-- 🌱 I’m currently studying computer vision and machine learning (i.e. deep learning).
+- 👀 I’m interested in video understanding i.e., video segmentation, inpainting. 
+- 🌱 I’m currently studying attention mechanism, knownledge distillation, multi-modal learning.
 - 💞️ I’m looking to collaborate on computer vision and computer graphics.
 - 📫 How to reach me: email me (qttruong@connect.ust.hk or sirquangtrung@gmail.com)
 
